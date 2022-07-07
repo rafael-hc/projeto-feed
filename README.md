@@ -1,6 +1,6 @@
 # Projeto Feed 
-    Projeto de um feed (tipo de uma rede social) utilizando React.js com TypeScript, onde foram aplicados os conceitos de Clean Code
 
+Projeto de um feed (tipo de uma rede social) utilizando React.js com TypeScript, onde foram aplicados os conceitos de Clean Code
 ## Aprendizados
 
 ### React
