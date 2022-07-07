@@ -29,4 +29,5 @@ Projeto de um feed (tipo de uma rede social) utilizando React.js com TypeScript,
 
     function handleLikeComment(){
         setLikeCount(state => state + 1)
+    }
 ```
