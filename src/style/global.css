@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:focus{
+    outline: transparent;
+    @apply shadow-3xl shadow-green-500;
+}
+
+html{
+    @apply text-[87.5%] md:text-[100%]
+}
+
+body{
+    @apply bg-gray-900 text-gray-300;
+    -webkit-font-smoothing: antialiased;
+}
+
+body, input, textarea, button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
